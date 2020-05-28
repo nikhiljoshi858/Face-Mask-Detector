@@ -30,5 +30,4 @@ This folder contains some test images you can try your model on.
 It contains the pre trained model for face detection and the prototxt file.
 
 <h3>Results:</h3>
-Some results of images are below:
-![Alt text](https://github.com/nikhiljoshi858/Face-Mask-Detector/blob/master/results/postive.png)
+Some results can be found in the results folder in the repository.
